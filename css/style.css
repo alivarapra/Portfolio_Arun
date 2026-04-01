@@ -306,12 +306,12 @@ header * { position: relative; z-index: 1; }
 /* ----------------------------------------------------------------
    Portfolio Section
 ---------------------------------------------------------------- */
-#portfolio {
+#portfolio, #services {
   background: #155e75;
   padding: 90px 0 72px;
 }
 
-#portfolio h1 {
+#portfolio h1, #services h1 {
   font-size: 2.8rem;
   color: #fff;
   text-align: center;
